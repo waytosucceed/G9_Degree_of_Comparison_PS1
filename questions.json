@@ -1,0 +1,206 @@
+{
+  "heading": "G9_Degree of Comparison_MCQs",
+  "topics": [
+    {
+      "heading": "Degree of Comparison",
+      "questions": [
+  {
+    "questionNo": 1,
+    "question": [
+      "Fill in the blank: <br>Yesterday was ______ than today."
+    ],
+    "options": [
+      { "text": "hot" },
+      { "text": "hotter" },
+      { "text": "hottest" },
+      { "text": "more hot" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "Pick the sentence that uses the superlative degree correctly."
+    ],
+    "options": [
+      { "text": "She is the most kindest person I know." },
+      { "text": "She is kinder than everyone I know." },
+      { "text": "She is more kindest than her sister." },
+      { "text": "She is the kindest person I know." }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "Identify the sentence that uses a non-gradable adjective correctly."
+    ],
+    "options": [
+      { "text": "This solution is truly final." },
+      { "text": "This solution is very final." },
+      { "text": "This solution is more final than the last one." },
+      { "text": "This solution is finalest." }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "Fill in the blank:<br> Among all the workers, she was the ______."
+    ],
+    "options": [
+      { "text": "busy" },
+      { "text": "busier" },
+      { "text": "busiest" },
+      { "text": "more busy" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "Pick the sentence that shows an incorrect degree of comparison."
+    ],
+    "options": [
+      { "text": "This river is longer than that one." },
+      { "text": "This river is the longest in the region." },
+      { "text": "This river is more longer than that one." },
+      { "text": "This river is long." }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "Identify the correctly formed comparative sentence."
+    ],
+    "options": [
+      { "text": "This problem is more simpler than the last one." },
+      { "text": "This problem is simplest than the last one." },
+      { "text": "This problem is simpler than the last one." },
+      { "text": "This problem is most simple than the last one." }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "Fill in the blank (Irregular adjective):<br> This route is ______ than the one we used before."
+    ],
+    "options": [
+      { "text": "far" },
+      { "text": "farther" },
+      { "text": "farthest" },
+      { "text": "more far" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "Pick the sentence that correctly uses “most”."
+    ],
+    "options": [
+      { "text": "This is the most fastest train." },
+      { "text": "This is the fastest train." },
+      { "text": "This is the most fast train." },
+      { "text": "This is faster train of all." }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "Identify the sentence that avoids double comparison."
+    ],
+    "options": [
+      { "text": "She is the most angriest about the decision." },
+      { "text": "She is angrier than her brother." },
+      { "text": "She is more angrier than her brother." },
+      { "text": "She is most angry than her brother." }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "Fill in the blank:<br> This explanation is the ______ one in the book."
+    ],
+    "options": [
+      { "text": "clearer" },
+      { "text": "clearest" },
+      { "text": "most clear" },
+      { "text": "more clear" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "Complete the following sentence using the most appropriate option:<br> Despite intense media scrutiny, the athlete’s reputation remained __________, as no evidence of wrongdoing was ever discovered."
+    ],
+    "options": [
+      { "text": "disconsolate" },
+      { "text": "unsullied" },
+      { "text": "portentous" },
+      { "text": "hard act to follow" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "What is the meaning of the word disconsolate?"
+    ],
+    "options": [
+      { "text": "Deeply unhappy and unable to be comforted" },
+      { "text": "Showing signs of great happiness" },
+      { "text": "Feeling proud after an achievement" },
+      { "text": "Suggesting that something important may happen" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "Complete the following sentence using the correct idiom:<br> After winning multiple international awards, the new director knew that replacing her predecessor would be a __________."
+    ],
+    "options": [
+      { "text": "follow in someone’s footsteps" },
+      { "text": "disconsolate" },
+      { "text": "hard act to follow" },
+      { "text": "unsullied" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "What does the idiom follow in someone’s footsteps mean?"
+    ],
+    "options": [
+      { "text": "To literally walk behind another person" },
+      { "text": "To repeat the same mistakes as someone else" },
+      { "text": "To pursue a similar career or path as another person" },
+      { "text": "To compete directly with someone" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 15,
+    "question": [
+      "Complete the following sentence using the most suitable word:<br> The silence in the courtroom was __________, as everyone sensed that the verdict would change many lives."
+    ],
+    "options": [
+      { "text": "unsullied" },
+      { "text": "disconsolate" },
+      { "text": "portentous" },
+      { "text": "follow in someone’s footsteps" }
+    ],
+    "answer": 2
+  }
+]
+
+    }
+  ]
+}
